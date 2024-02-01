@@ -17,6 +17,12 @@ Make sure you have the following installed before proceeding:
 
 ## Installation Steps
 
+- Clone the repository:
+
+```bash
+git clone https://github.com/ss26297/challenge.git
+```
+
 - Navigate to the project directory
 
 ```bash
